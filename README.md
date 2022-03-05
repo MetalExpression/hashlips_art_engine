@@ -1,3 +1,4 @@
+![5](https://user-images.githubusercontent.com/100516962/156897315-5dbbf54c-5397-4cfa-8334-a6905ddea070.jpeg)
 # Welcome to HashLips 👄
 
 ![](https://github.com/HashLips/hashlips_art_engine/blob/main/logo.png)
@@ -55,7 +56,7 @@ const layerConfigurations = [
   {
     growEditionSizeTo: 100,
     layersOrder: [
-      { name: "Head" },
+      { name: "Elon Musk" },
       { name: "Mouth" },
       { name: "Eyes" },
       { name: "Eyeswear" },
@@ -77,7 +78,7 @@ const layerConfigurations = [
     // Creates up to 50 artworks
     growEditionSizeTo: 50,
     layersOrder: [
-      { name: "Background" },
+      { name: "Elon Musk" },
       { name: "Head" },
       { name: "Mouth" },
       { name: "Eyes" },
@@ -89,12 +90,12 @@ const layerConfigurations = [
     // Creates an additional 100 artworks
     growEditionSizeTo: 150,
     layersOrder: [
-      { name: "Background" },
-      { name: "Head" },
-      { name: "Eyes" },
-      { name: "Mouth" },
-      { name: "Eyeswear" },
-      { name: "Headwear" },
+      { name: "threaded" },
+      { name: "1" },
+      { name: "1" },
+      { name: "1" },
+      { name: "1" },
+      { name: "1" },
       { name: "AlienHeadwear" },
     ],
   },
@@ -195,7 +196,7 @@ The program will output all the images in the `build/images` directory along wit
 ```json
 {
   "dna": "d956cdf4e460508b5ff90c21974124f68d6edc34",
-  "name": "#1",
+  "name": " Elon Musk #1",
   "description": "This is the description of your NFT project",
   "image": "https://hashlips/nft/1.png",
   "edition": 1,
