@@ -1,3 +1,4 @@
+![IMG-20190414-WA0001](https://user-images.githubusercontent.com/100516962/156918232-69c894e5-f971-4ff5-ac71-9567c41c06f3.jpg)
 ![5](https://user-images.githubusercontent.com/100516962/156897315-5dbbf54c-5397-4cfa-8334-a6905ddea070.jpeg)
 # Welcome to HashLips 👄
 
